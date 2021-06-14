@@ -17,7 +17,7 @@ namespace TG.GameJamTemplate
 
             if (_bgmAudioSource != null)
             {
-                _bgmAudioSource.DOFade(0, _fadeOutTime).SetUpdate(true);
+                //_bgmAudioSource.DOFade(0, _fadeOutTime).SetUpdate(true);
             }
         }
     }

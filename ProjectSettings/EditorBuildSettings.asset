@@ -9,6 +9,6 @@ EditorBuildSettings:
     path: Assets/3rdParty/GameJamTemplate/Scenes/MainMenuTemplate.unity
     guid: 529373d384ca441a1a2290921e622730
   - enabled: 1
-    path: Assets/3rdParty/GameJamTemplate/Scenes/GameplaySceneTemplate.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
+    path: Assets/Scenes/GameplaySceneTemplate.unity
+    guid: 9ad1a92517e59495286c9593e6a1b0f4
   m_configObjects: {}

@@ -15,8 +15,8 @@ namespace TG.GameJamTemplate
 
         private void OnEnable()
         {
-            if (AudioManager.I != null) PlayBGM();
-            else StartCoroutine(WaitForAudioManager());
+            //if (AudioManager.I != null) PlayBGM();
+            StartCoroutine(WaitForAudioManager());
         }
 
         private IEnumerator WaitForAudioManager()
